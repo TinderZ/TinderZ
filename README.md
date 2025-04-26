@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @TinderZ
-- 👀 I’m interested in machine learning and LLM.
+- 👀 I’m interested in deep learning and LLM.
+- My current focus revolves around multi-agent systems, where I'm investigating both LLM-based architectures and Multi-Agent Reinforcement Learning (MARL) approaches.
 
 
 <!---

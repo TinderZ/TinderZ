@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @TinderZ
 ### 👀 I’m interested in Deep Reinforcement Learning and LLMs.
 - My current focus revolves around multi-agent systems, where I'm investigating both LLM-based architectures and Multi-Agent Reinforcement Learning (MARL) approaches.
-#### Beyond multi-agent systems, I've also been diving into fascinating areas like:
+#### Beyond multi-agent systems, I also dive into fascinating areas like:
 - LLM Structured Reasoning,  Combating LLM Hallucinations, and so on.
 - Explainable Reinforcement Learning: Particularly, I'm fascinated by the interpretability of RL in complex domains like Go (围棋), and how these insights might be generalized to other fields, such as AI4Science.
 ## Let's Connect!

@@ -4,6 +4,7 @@
 #### Beyond multi-agent systems, I also dive into fascinating areas like:
 - LLM Structured Reasoning,  Combating LLM Hallucinations, and so on.
 - Explainable Reinforcement Learning: Particularly, I'm fascinated by the interpretability of RL in complex domains like Go (围棋), and how these insights might be generalized to other fields, such as AI4Science.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TinderZ)](https://github.com/anuraghazra/github-readme-stats)
 ## Let's Connect!
 - I'm always open to collaboration and discussion on these topics. 
 - Feel free to reach out if you share similar interests or have exciting projects in mind!

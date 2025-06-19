@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Let's Connect! :eyes:
 - I'm always open to collaboration and discussion on these topics.
-- Email：b23042510njupt.edu.cn :white_check_mark:
+- Email：b23042510@njupt.edu.cn :white_check_mark:
 - Feel free to reach out if you share similar interests or have exciting projects in mind!
 
 [![Top Langs](https://github-readme-stats-1seg.vercel.app/api/top-langs/?username=TinderZ&layout=compact&size_weight=0.2&count_weight=0.8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

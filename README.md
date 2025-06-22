@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats-1seg.vercel.app/api?username=TinderZ&show_icons=true&count_private=true&theme=dracula&rank_icon=github)
 
 ## ✨ Research Focus ✨  
-### :bulb: I’ve dive into Deep Reinforcement Learning and LLMs.
+### :bulb: I’m learning Deep Reinforcement Learning and LLMs.
 - My current focus revolves around multi-agent systems, where I'm investigating both LLM-based architectures and Multi-Agent Reinforcement Learning (MARL) approaches.
 ### :bulb: Beyond multi-agent systems, I'm also interested in fascinating areas like:
 - LLM Structured Reasoning,  Combating LLM Hallucinations, and so on.

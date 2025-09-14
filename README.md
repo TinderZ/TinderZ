@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TinderZ/TinderZ/main/tinderz(1).png" alt="TINDERZ-Lab Logo" width="950"/>
+</p>
+
+
 # 👋 Hi, I’m @TinderZ
 
 <div align="center">

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TinderZ/TinderZ/main/tinderzlab.png" alt="TINDERZ-Lab Logo" width="490"/>
+  <img src="https://raw.githubusercontent.com/TinderZ/TinderZ/main/tinderzlab.png" alt="TINDERZ-Lab Logo" width="390"/>
 </p>
 
 # 👋 Hi, I’m @TinderZ

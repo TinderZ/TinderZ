@@ -8,12 +8,14 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats-seven-dun-41.vercel.app/api?username=TinderZ&show_icons=true&count_private=true&theme=dracula&rank_icon=github&hide=contribs)
 
 ## ✨ Research Focus ✨  
-### :bulb: I’m learning Deep Reinforcement Learning and LLMs.
-- My current focus revolves around multi-agent systems, where I'm investigating both LLM-based architectures and Multi-Agent Reinforcement Learning (MARL) approaches.
-### :bulb: Beyond multi-agent systems, I'm also interested in fascinating areas like:
-- LLM Structured Reasoning,  Combating LLM Hallucinations, and so on.
-- Explainable Reinforcement Learning: Particularly, I'm fascinated by the interpretability of RL in complex domains like Go (围棋), and how these insights might be generalized to other fields, such as AI4Science.
+### :bulb: I’m learning Deep Reinforcement Learning and LLMs. 
+- My current focus revolves around **Multi-Agent Systems**, where I'm investigating both **LLM-based architectures** and **Multi-Agent Reinforcement Learning (MARL)** approaches.
 
+### :bulb: Beyond my core focus, I'm also interested in other fascinating areas:
+- **Agentic Reinforcement Learning**
+- **LLM Security**, particularly **Harmful Content Detection**
+- **LLM Structured Reasoning**
+- **Combating LLM Hallucinations**
 
 
 [![Top Langs](https://github-readme-stats-seven-dun-41.vercel.app/api/top-langs/?username=TinderZ&layout=donut&size_weight=0.2&count_weight=0.8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

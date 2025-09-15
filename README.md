@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TinderZ/TinderZ/main/tinderz(1).png" alt="TINDERZ-Lab Logo" width="950"/>
+  <img src="https://raw.githubusercontent.com/TinderZ/TinderZ/main/TinderZ_Lab-Logo.png" alt="TINDERZ-Lab Logo" width="950"/>
 </p>
 
 
-# 👋 Hi, I’m @TinderZ
+# 👋 Hi, I’m @TinderZ   &nbsp;&nbsp;&nbsp;&nbsp; [![wakatime](https://wakatime.com/badge/user/157376b4-4aa6-4064-8bf2-03a6436eb74b.svg)](https://wakatime.com/@157376b4-4aa6-4064-8bf2-03a6436eb74b)&nbsp;![Python](https://img.shields.io/badge/Python-Cursor/Trae-7B68EE.svg?logo=python&logoColor=white)
 
 <div align="center">
   <table>
     <tr>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats-seven-dun-41.vercel.app/api?username=TinderZ&show_icons=true&count_private=true&theme=dracula&rank_icon=github&hide=contribs" alt="Anurag's GitHub stats"/>
+          <img src="https://github-readme-stats-seven-dun-41.vercel.app/api?username=TinderZ&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&hide=contribs" alt="Anurag's GitHub stats"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats-seven-dun-41.vercel.app/api/top-langs/?username=TinderZ&layout=donut&size_weight=0.2&count_weight=0.8&theme=dracula" alt="Top Langs"/>
+          <img src="https://github-readme-stats-seven-dun-41.vercel.app/api/top-langs/?username=TinderZ&size_weight=0.2&count_weight=0.8&theme=tokyonight&layout=compact" alt="Top Langs"/>
         </a>
       </td>
     </tr>

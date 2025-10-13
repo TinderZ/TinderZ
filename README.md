@@ -29,8 +29,8 @@
 ### :bulb: Beyond my core focus, I'm also interested in other fascinating areas:
 - **Agentic Reinforcement Learning**
 - **LLM Security**, particularly **Harmful Content Detection**
-- **LLM Structured Reasoning**
-- **Combating LLM Hallucinations**
+- **LLM Reasoning**
+- **LLM Hallucinations**
 
 ## Let's Connect! :eyes:
 - I'm always open to collaboration and discussion on these topics.

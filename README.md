@@ -27,10 +27,9 @@
 - My current focus revolves around **Multi-Agent Systems**, where I'm investigating both **LLM-based architectures** and **Multi-Agent Reinforcement Learning (MARL)** approaches.
 
 ### :bulb: Beyond my core focus, I'm also interested in other fascinating areas:
-- **Agentic Reinforcement Learning**
-- **LLM Security**
 - **LLM Reasoning**
 - **LLM Hallucinations**
+- **Agentic Reinforcement Learning**
 
 ## Let's Connect! :eyes:
 - I'm always open to collaboration and discussion on these topics.

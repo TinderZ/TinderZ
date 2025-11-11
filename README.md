@@ -10,7 +10,7 @@
     <tr>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats-seven-dun-41.vercel.app/api?username=TinderZ&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&hide=contribs" alt="Anurag's GitHub stats"/>
+          <img src="https://github-readme-stats-seven-dun-41.vercel.app/api?username=TinderZ&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&rank_icon=github&hide=contribs" alt="Anurag's GitHub stats"/>
         </a>
       </td>
       <td>

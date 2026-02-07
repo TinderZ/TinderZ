@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TinderZ/TinderZ/main/tinderz-new.png" alt="TINDERZ-Lab Logo" width="950"/>
+  <img src="https://raw.githubusercontent.com/TinderZ/TinderZ/main/TinderZLab-Logo.png" alt="TINDERZ-Lab Logo" width="950"/>
 </p>
 
 

@@ -22,14 +22,32 @@
   </table>
 </div>
 
-## ✨ Research Focus ✨  
-### :bulb: I’m learning Deep Reinforcement Learning and LLMs. 
-- My current focus revolves around **Multi-Agent Systems**, where I'm investigating both **LLM-based architectures** and **Multi-Agent Reinforcement Learning (MARL)** approaches.
 
-### :bulb: Beyond my core focus, I'm also interested in other fascinating areas:
-- **LLM Reasoning**
-- **LLM Hallucinations**
-- **Agentic Reinforcement Learning**
+
+## ✨ Research Focus ✨
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%">🔍 Research Area</th>
+      <th width="70%">📖 Description</th>
+    </tr>
+  </thead>
+  <tr>
+    <td align="center"><b>🧠 LLM Reasoning</b></td>
+    <td>Exploring the mechanisms and boundaries of LLMs in complex logical reasoning, covering areas such as <b>Test-time Scaling</b> and <b>RL4LLM</b>.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Auxiliary Policy Model</b></td>
+    <td>Integrating <b>lightweight auxiliary policy models</b>, trained via <b>Reinforcement Learning</b>, into LLM architectures to enhance model capabilities.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 MARL</b></td>
+    <td>Focusing on multi-agent system, including both <b>LLM-based agents</b> and <b>traditional agents</b>, to solve coordination and game-theoretic equilibrium.</td>
+  </tr>
+</table>
+
+<br />
 
 ## Let's Connect! :eyes:
 - I'm always open to collaboration and discussion on these topics.

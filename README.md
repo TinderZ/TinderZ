@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/TinderZ/TinderZ/main/TinderZLab-Logo.png" alt="TINDERZ-Lab Logo" width="950"/>
-</p>
+</p> -->
 
 # 👋 Hi, I’m TinderZ   &nbsp;&nbsp;&nbsp;&nbsp; [![wakatime](https://wakatime.com/badge/user/157376b4-4aa6-4064-8bf2-03a6436eb74b.svg)](https://wakatime.com/@157376b4-4aa6-4064-8bf2-03a6436eb74b)&nbsp;![Python](https://img.shields.io/badge/Python-Cursor-7B68EE.svg?logo=python&logoColor=white)&nbsp;![Visitors](https://komarev.com/ghpvc/?username=TinderZ)
 <br />

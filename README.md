@@ -23,7 +23,7 @@
 
 <br />
 
-## ✨ Research Focus ✨
+## ✨ Research Experience & Interests ✨
 
 <table width="100%">
   <thead>
@@ -47,6 +47,6 @@
 </table>
 
 ## Let's Connect! :eyes:
-- I'm always open to collaboration and discussion on these topics.
-- Email：b23042510@njupt.edu.cn :white_check_mark:
+- I'm always open to collaboration and discussion on these topics. Of course, discussions can also be held in other fields as well.
+- Email：b23042510@njupt.edu.cn :white_check_mark:| zhurun.z.ai@qq.com:white_check_mark:
 - Feel free to reach out if you share similar interests or have exciting projects in mind!

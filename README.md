@@ -37,10 +37,6 @@
     <td>Exploring the mechanisms and boundaries of LLMs in complex logical reasoning, covering areas such as <b>Test-time Scaling</b> and <b>RL4LLM</b>.</td>
   </tr>
   <tr>
-    <td align="center"><b>⚙️ Auxiliary Policy Model</b></td>
-    <td>Integrating <b>lightweight auxiliary policy models</b>, trained via <b>Reinforcement Learning</b>, into LLM architectures to enhance model capabilities.</td>
-  </tr>
-  <tr>
     <td align="center"><b>🤖 MARL</b></td>
     <td>Focusing on multi-agent system, including both <b>LLM-based agents</b> and <b>traditional agents</b>, to solve coordination and game-theoretic equilibrium.</td>
   </tr>

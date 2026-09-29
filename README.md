@@ -44,5 +44,5 @@
 
 ## Let's Connect! :eyes:
 - I'm always open to collaboration and discussion on these topics. Of course, discussions can also be held in other fields as well.
-- Email：b23042510@njupt.edu.cn :white_check_mark:| zhurun.z.ai@qq.com:white_check_mark:
+- Email：zhurun2ai@163.com :white_check_mark:| zhurun.z.ai@qq.com:white_check_mark:
 - Feel free to reach out if you share similar interests or have exciting projects in mind!

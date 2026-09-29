@@ -33,12 +33,12 @@
     </tr>
   </thead>
   <tr>
-    <td align="center"><b>🧠 LLM Reasoning</b></td>
-    <td>Exploring the mechanisms and boundaries of LLMs in complex logical reasoning, covering areas such as <b>Test-time Scaling</b> and <b>RL4LLM</b>.</td>
+    <td align="center"><b>🧠 LLM Reasoning &amp; Agents</b></td>
+    <td>Exploring LLM reasoning and agent capabilities, including reasoning, planning, and acting in complex tasks.</td>
   </tr>
   <tr>
-    <td align="center"><b>🤖 MARL</b></td>
-    <td>Focusing on multi-agent system, including both <b>LLM-based agents</b> and <b>traditional agents</b>, to solve coordination and game-theoretic equilibrium.</td>
+    <td align="center"><b>🤖 LLM Post-training</b></td>
+    <td>Studying LLM post-training methods, with a focus on <b>Agentic RL</b> and <b>OPD</b>.</td>
   </tr>
 </table>
 
